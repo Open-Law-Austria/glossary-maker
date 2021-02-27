@@ -4,7 +4,7 @@ Ein c# dotnet core tool, das Glossare für https://wordpress.org/plugins/encyclo
 
 ## Code of Conduct
 
-Wir erwarten von allen Teilnehmern an diesem Projekt, dass der [Code of Conduct](./CODE_OF_CONDUCT) eingehalten wird. 
+Wir erwarten von allen Teilnehmern an diesem Projekt, dass der [Code of Conduct](./CODE_OF_CONDUCT.md) eingehalten wird. 
 Verstöße können via [Issue](/../../issues/new?assignees=daniel-eder&labels=code+of+conduct&template=code-of-conduct-versto-.md&title=%5BCode+of+Conduct%5D+) gemeldet werden. 
 
 ## Contributing
